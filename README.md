@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chisom Joseph Njoku!
 
-🌐 [**chisomnjoku.com.ng**](https://chisomnjoku.com.ng) | 💼 [LinkedIn](https://www.linkedin.com/) | 🐦 [Twitter](https://twitter.com/) | ✍️ [Medium](https://medium.com/)
+🌐 [**chisomnjoku.com.ng**](https://chisomnjoku.com.ng) | 💼 [LinkedIn](https://www.linkedin.com/in/njokuchisomjoseph/) | 🐦 [X](https://x.com/nj_chisomjoseph) | 📱 [TikTok](https://www.tiktok.com/@chisomnjokujoseph)
 
 ## 🚀 About Me
 
@@ -68,11 +68,19 @@ Check out my **TikTok channel** for quick tech tips!
 
 ---
 
-## 📫 How to Reach Me
+## 🌐 Connect with Me
 
-- **Email:** njokuchisomjoseph@gmail.com
-- **Website:** [chisomnjoku.com.ng](https://chisomnjoku.com.ng)
-- **Socials:** [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/)
+Here’s how you can connect with me across platforms:
+
+- [**GitHub:** Chisom-Joseph](https://github.com/Chisom-Joseph)
+- [**LinkedIn:** @njokuchisomjoseph](https://linkedin.com/in/njokuchisomjoseph/)
+- [**TikTok:** @chisomnjokujoseph](https://www.tiktok.com/@chisomnjokujoseph)
+- [**Instagram:** @chisomjosephnjoku](https://www.instagram.com/chisomjosephnjoku)
+- [**Facebook:** @chisomjosephnjoku](https://web.facebook.com/chisomjosephnjoku/)
+- [**X (Twitter):** @nj_chisomjoseph](https://x.com/nj_chisomjoseph)
+- [**YouTube:** @njokuchisomjoseph](https://www.youtube.com/@njokuchisomjoseph)
+- 📧 Email: [njokuchisomjoseph@gmail.com](mailto:njokuchisomjoseph@gmail.com)
+- 📞 WhatsApp: +234(0)8058600003
 
 ---
 
@@ -86,6 +94,6 @@ I enjoy designing **minimalistic UIs**, experimenting with **GSAP animations**, 
 
 Feel free to connect or check out my projects below 👇
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chisomnjoku&show_icons=true&theme=radical)](https://github.com/chisomnjoku)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chisomnjoku&show_icons=true&theme=radical)](https://github.com/Chisom-Joseph)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chisomnjoku&layout=compact&theme=radical)](https://github.com/chisomnjoku)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chisomnjoku&layout=compact&theme=radical)](https://github.com/Chisom-Joseph)
