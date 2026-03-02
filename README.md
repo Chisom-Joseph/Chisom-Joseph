@@ -14,7 +14,7 @@ Building scalable web platforms, cross-platform mobile apps, and Web3 solutions 
 
 <br/>
 
-<a href="https://chisomnjoku.com.ng">
+<a href="https://chisomaga.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/njokuchisomjoseph">
