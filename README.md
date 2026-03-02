@@ -1,99 +1,110 @@
-# 👋 Hi, I'm Chisom Joseph Njoku!
+<!-- ======================================== -->
+<!--           HERO SECTION                   -->
+<!-- ======================================== -->
 
-🌐 [**chisomnjoku.com.ng**](https://chisomnjoku.com.ng) | 💼 [LinkedIn](https://www.linkedin.com/in/njokuchisomjoseph/) | 🐦 [X](https://x.com/nj_chisomjoseph) | 📱 [TikTok](https://www.tiktok.com/@chisomnjokujoseph)
+<div align="center">
 
-## 🚀 About Me
+# ⚡ Chisom Joseph Njoku
 
-I’m a **full-stack web developer** with over 4 years of experience building scalable and dynamic web applications. My expertise spans **frontend** and **backend** technologies, including:
+### Full-Stack Web & Mobile Engineer
 
-- 💻 **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS
-- ⚙️ **Backend:** Node.js, Express.js, MySQL, MongoDB
-- 🎨 **UI/UX:** Minimalistic design principles, GSAP animations, AOS
+<p>
+Building scalable web platforms, cross-platform mobile apps, and Web3 solutions with performance and clean architecture in mind.
+</p>
 
-I also create educational content for **programmers and tech enthusiasts** on TikTok and other platforms. My aim? To make learning tech concepts **fun and accessible**!
+<br/>
 
----
+<a href="https://chisomnjoku.com.ng">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/njokuchisomjoseph">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/nj_chisomjoseph">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
-## 📂 My Projects
+<br/><br/>
 
-Here are some highlights of my work:
+<img src="https://streak-stats.demolab.com?user=Chisom-Joseph&theme=tokyonight&hide_border=true" />
 
-### 1. 🧠 **Quiz App**
-
-A web app that allows multiple users to take quizzes simultaneously.
-
-- **Technologies:** React.js, Node.js, Express, WebSockets
-- **Features:** Real-time scoring, dynamic question banks
-- 🌟 [View Project](https://github.com/)
-
-### 2. 💬 **Pidgin Chatbot**
-
-An interactive chatbot built for seamless communication in Pidgin English.
-
-- **Technologies:** SvelteKit, Node.js, Express.js
-- 🌟 [View Project](https://github.com/)
-
-### 3. 🌈 **Portfolio Website**
-
-My personal website showcasing my projects, skills, and experience.
-
-- **Technologies:** Next.js, TailwindCSS, GSAP animations
-- 🌟 [View Live Site](https://chisomnjoku.com.ng)
+</div>
 
 ---
 
-## 📖 Content Creation
+# 🧠 About Me
 
-I create **educational content** on:
+I build **production-ready digital products** across web, mobile, and Web3.
 
-- ✅ Best practices in JavaScript and TypeScript
-- ✅ React and Next.js tips
-- ✅ Beginner-friendly coding tricks
+With 6+ years of experience, I specialize in:
 
-Check out my **TikTok channel** for quick tech tips!
+- ⚡ Fast, SEO-optimized web apps  
+- 📱 High-performance cross-platform mobile apps  
+- 🏗 Clean architecture & scalable backend systems  
+- 🔗 Blockchain & smart contract development  
+- 🎯 Smooth, polished user interfaces  
 
----
-
-## 💡 Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+I care about performance.  
+I care about structure.  
+I care about shipping.
 
 ---
 
-## 🌐 Connect with Me
+# 🚀 Core Stack
 
-Here’s how you can connect with me across platforms:
+## 🌐 Web
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind,php,laravel,nestjs" />
+</p>
 
-- [**GitHub:** Chisom-Joseph](https://github.com/Chisom-Joseph)
-- [**LinkedIn:** @njokuchisomjoseph](https://linkedin.com/in/njokuchisomjoseph/)
-- [**TikTok:** @chisomnjokujoseph](https://www.tiktok.com/@chisomnjokujoseph)
-- [**Instagram:** @chisomjosephnjoku](https://www.instagram.com/chisomjosephnjoku)
-- [**Facebook:** @chisomjosephnjoku](https://web.facebook.com/chisomjosephnjoku/)
-- [**X (Twitter):** @nj_chisomjoseph](https://x.com/nj_chisomjoseph)
-- [**YouTube:** @njokuchisomjoseph](https://www.youtube.com/@njokuchisomjoseph)
-- 📧 Email: [njokuchisomjoseph@gmail.com](mailto:njokuchisomjoseph@gmail.com)
-- 📞 WhatsApp: +234(0)8058600003
+## ⚙ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,supabase,firebase" />
+</p>
 
----
-
-## 🌟 Fun Fact
-
-I enjoy designing **minimalistic UIs**, experimenting with **GSAP animations**, and creating funny **loading GIFs** for my projects!
+## 📱 Mobile
+<p>
+<img src="https://skillicons.dev/icons?i=react,flutter" />
+</p>
 
 ---
 
-### 🔥 Let's Build Something Amazing Together!
+# 🔗 Web3 / Blockchain
 
-Feel free to connect or check out my projects below 👇
+<p>
+<img src="https://skillicons.dev/icons?i=solidity,solana" />
+</p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chisomnjoku&show_icons=true&theme=radical)](https://github.com/Chisom-Joseph)
+- **Sui (Move Language)**
+- **Solana**
+- **Solidity Smart Contracts**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chisomnjoku&layout=compact&theme=radical)](https://github.com/Chisom-Joseph)
+Building decentralized applications and exploring scalable blockchain ecosystems.
+
+---
+
+# 🔥 What I Build
+
+- SaaS Platforms  
+- Real-Time Applications  
+- REST & WebSocket APIs  
+- Cross-Platform Mobile Apps  
+- Smart Contracts & dApps  
+- High-Performance Frontends  
+
+---
+
+# 🎯 Current Focus
+
+- Advanced system design  
+- AI-powered applications  
+- Scalable startup-ready products  
+- Web3 infrastructure & smart contracts  
+
+---
+
+<div align="center">
+
+### 🚀 Build fast. Build clean. Scale confidently.
+
+</div>
