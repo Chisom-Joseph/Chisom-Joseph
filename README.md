@@ -26,7 +26,7 @@ Building scalable web platforms, cross-platform mobile apps, and Web3 solutions 
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Chisom-Joseph&theme=tokyonight&hide_border=true" />
+<img src="./profile/streak.svg" alt="GitHub Streak" />
 
 </div>
 
